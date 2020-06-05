@@ -26,7 +26,6 @@ body {
 
 .title-container {
   height: 743px;
-  //   background-image: url(../assets/cotton-candy-sky.jpg);
   background-image: url(../assets/office.jpg);
   width: 55%;
   height: auto;
@@ -35,10 +34,10 @@ body {
   background-size: cover;
   background-size: cover;
   display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  color: white;
+  padding: 200px 0 0 1rem;
+  justify-content: left;
+  text-align: left;
+  color: black;
 
   &__title {
     font-size: 50px;
