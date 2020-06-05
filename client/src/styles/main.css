@@ -4,8 +4,8 @@ body {
 }
 
 .wrapper {
-  background: -webkit-gradient(linear, left top, right top, from(salmon), to(royalblue));
-  background: linear-gradient(to right, salmon, royalblue);
+  background: -webkit-gradient(linear, left top, right top, from(lightgrey), to(darkblue));
+  background: linear-gradient(to right, lightgrey, darkblue);
   height: 100vh;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -41,7 +41,7 @@ body {
 
 .title-container {
   height: 743px;
-  background-image: url(../assets/cotton-candy-sky.jpg);
+  background-image: url(../assets/office.jpg);
   width: 55%;
   height: auto;
   background-repeat: no-repeat;
@@ -79,7 +79,7 @@ body {
 
 input {
   border: 0;
-  border-bottom: solid 1px salmon;
+  border-bottom: solid 1px royalblue;
   width: 30%;
   padding-bottom: 4px;
   font-weight: lighter;
@@ -99,7 +99,7 @@ button {
   font-weight: lighter;
   font-size: 15px;
   cursor: pointer;
-  background-color: salmon;
+  background-color: royalblue;
   color: white;
   font-weight: 100;
 }
