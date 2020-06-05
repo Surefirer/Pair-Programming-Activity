@@ -2,9 +2,9 @@ import React from "react";
 
 const Titles = () => (
   <div>
-    <h1 className="title-container__title">What's The Weather Like?</h1>
+    <h1 className="title-container__title">Employee Data</h1>
     <h3 className="title-container__subtitle">
-      Don't feel like going outside? Find out the weather in your city here!
+      Here list all your employee data.
     </h3>
   </div>
 );
